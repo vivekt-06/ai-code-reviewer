@@ -68,6 +68,11 @@ streamlit run app.py
 
 After running the command, Streamlit will open the application in your default web browser.
 
+## Live Demo
+[Open App](https://ai-code-reviewer-grwmcjzjo32dsxsgjufrvm.streamlit.app/)
+
+AI Code Reviewer is a Streamlit-based web app that analyzes code for bugs, performance, style, and security issues.
+
 ## How It Works
 
 1. Select the programming language from the sidebar.
